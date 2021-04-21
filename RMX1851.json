@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1618936355,
-      "filename": "PixelBlaster_1.0_11.0-20210420-1614-OFFICIAL.zip",
-      "id": "c139e41ec8ec2bef855a8a88d9b714de",
+      "datetime":1618977144,
+      "filename": "PixelBlaster_1.0_11.0-20210421-0346-OFFICIAL.zip",
+      "id": "10a7bd1512e82d54b861b30db4408ac9",
       "romtype": "OFFICIAL",
-      "size":1296020297,
-      "url": "https://doc-14-0c-docs.googleusercontent.com/docs/securesc/ucvlr1aq8s2tb0mbv763d81pov2ctqbf/vguali4gcli4mgi46drs16fmo1k8ipb9/1618937325000/16333100857766465969/16333100857766465969/1vOkCMGQb1hn3iE1bfCkABGd9sVfWIVs-?e=download&authuser=0&nonce=tkfckdfcej2ke&user=16333100857766465969&hash=i669cuu292jac6ro6eph2fdmgcekr667",
+      "size":1296036470,
+      "url": "https://github.com/Blaster4385/build_aosp/releases/download/v1/PixelBlaster_1.0_11.0-20210421-0346-OFFICIAL.zip",
       "version": "1.0"
     }
   ]
