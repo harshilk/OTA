@@ -1,12 +1,12 @@
 {
   "response": [    
 {
-      "datetime": 1630989590,
-      "filename": "PixelBlaster_3.0_lemonkebab-11.0-20210907-0439-OFFICIAL.zip",
-      "id": "662d8e004bb88f5518f485dfa3f9bb60",
+      "datetime": 1631014172,
+      "filename": "PixelBlaster_3.0_lemonkebab-11.0-20210907-1129-OFFICIAL.zip",
+      "id": "889c3a1e5e45670435bba10caf402dee",
       "romtype": "OFFICIAL",  
-      "size": 1711700622,
-      "url": "https://index.thetablaster.workers.dev/0:/PixelBlaster_3.0_lemonkebab-11.0-20210907-0439-OFFICIAL.zip",
+      "size": 1661572755,
+      "url": "https://github.com/PixelBlaster-Releases/lemonkebab/releases/download/v3.0/PixelBlaster_3.0_lemonkebab-11.0-20210907-1129-OFFICIAL.zip",
       "version": "eleven"
     }
         ]
