@@ -1,12 +1,12 @@
 {
     "response": [    
   {
-        "datetime": 1631019636,
-        "filename": "PixelBlaster_3.0_RMX2170-11.0-20210907-1300-OFFICIAL.zip",
-        "id": "c8db593ec050d05c2d53e2991a6eca6a",
+        "datetime": 1631117609,
+        "filename": "PixelBlaster_3.0_RMX2170-11.0-20210908-1614-OFFICIAL.zip",
+        "id": "ff6a5d856ac8beb8d3303f646ebaaae5",
         "romtype": "OFFICIAL",  
-        "size": 1570991651,
-        "url": "https://github.com/PixelBlaster-Releases/RMX2170/releases/download/v3.0/PixelBlaster_3.0_RMX2170-11.0-20210907-1300-OFFICIAL.zip",
+        "size": 1571402622,
+        "url": "https://github.com/PixelBlaster-Releases/RMX2170/releases/download/v3.0.1/PixelBlaster_3.0_RMX2170-11.0-20210908-1614-OFFICIAL.zip",
         "version": "eleven"
       }
           ]
